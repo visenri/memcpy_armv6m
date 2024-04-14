@@ -3,7 +3,7 @@
 This new memcpy is between 1.5x and 3.5x faster than the default ROM version of Raspberry Pi Pico (RP2040).
 
 The following graph shows the average throughput compared to the default ROM version (in dashed lines):
-![](./images/memcpy_comparison_ram.png)
+![](./memops_opt/images/memcpy_comparison_ram.png)
 
  - Green lines: data aligned at word (4 byte) boundary (both source & destination).
  - Red lines: not aligned data.

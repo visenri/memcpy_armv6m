@@ -12,7 +12,7 @@ The following graph shows the average throughput compared to the default ROM ver
 There are 3 versions (mivo0, miwo1 & miwo2) with increasing speed.
 
 ## How to use it:
-Copy the memops_opt folder to your project.
+Copy the "memops_opt" folder to your project.
 
 Add it in your makefile:
 ~~~~
